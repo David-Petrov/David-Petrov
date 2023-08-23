@@ -20,6 +20,9 @@ Very keen on programming and mathematics. Couldn't decide which one I loved more
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=F48218)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=3C9CD7)
 ![Javascript](https://img.shields.io/badge/-JavaScipt-05122A?style=flat&logo=javascript)
+![Wolfram Mathematica](https://img.shields.io/badge/-Wolfram%20Mathematica-05122A?style=flat&logo=wolframmathematica&logoColor=FF0000)
+![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=007c7c)
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=2064b6)
 
 ### ⚙️  GitHub Analytics
 
