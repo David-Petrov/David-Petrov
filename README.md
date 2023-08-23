@@ -27,8 +27,12 @@ Very keen on programming and mathematics. Couldn't decide which one I loved more
 ### ⚙️  GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/David-Petrov">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=David-Petrov&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=David-Petrov&layout=compact&theme=merko"/>
-</a>
+  <a href="https://github.com/David-Petrov">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=David-Petrov&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=David-Petrov&layout=compact&theme=merko"/>
+  </a>
+</p>
+
+<p align="center">
+  <img width="100px" src="https://github.com/David-Petrov/David-Petrov/assets/30020419/160bf85c-9327-4d2d-9725-5dae76591d68"/>
 </p>
